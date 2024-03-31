@@ -1,6 +1,18 @@
 
 # Bike Sharing Systems Analysis
 
+**Table of Contents**
+1. [Introduction](#introduction)
+2. [Dataset Information](#dataset-information)
+3. [Objectives](#objectives)
+4. [Project Background](#project-background)
+5. [Methodology](#methodology)
+6. [Technologies Used](#technologies-used)
+7. [Tech Stack](#tech-stack)
+8. [How to Use](#how-to-use)
+9. [License](#license)
+10. [Acknowledgments](#acknowledgments)
+
 ## Introduction
 Bike sharing systems represent a modern evolution of traditional bike rentals, offering automated processes for membership registration, bike rental, and return. These systems facilitate the easy rental of bikes from one location and their return to another, contributing significantly to urban mobility, environmental sustainability, and public health. With over 500 bike-sharing programs worldwide, encompassing more than 500,000 bicycles, these systems have garnered considerable attention for their impact on traffic management and urban planning.
 
